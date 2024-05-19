@@ -59,8 +59,8 @@ O sistema consiste em lixeiras inteligentes equipadas com um sensor ultrassônic
 
 1. **Clone o Repositório**:
    ```sh
-   git clone https://github.com/your-repo/waste-management-system.git
-   cd waste-management-system 
+   git clone https://github.com/Tkhalo/Arduino-mackenzie-OIC.git
+   cd Arduino-mackenzie-OIC
    ```
 
 2. **Código do Arduino**:
