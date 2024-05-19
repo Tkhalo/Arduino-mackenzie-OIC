@@ -33,7 +33,7 @@ São Paulo enfrenta um desafio crítico com o descarte inadequado de resíduos, 
 
 - **Arduino IDE**: Para programar o WeMos D1 Mini Lite.
 - **Visual Studio Code com PlatformIO**: Para desenvolvimento e depuração.
-- **Flask**: Um micro framework para Python usado para criar um servidor na Huawei Cloud.
+- **Flask**: Um micro framework para Python usado em um servidor na Huawei Cloud.
 - **MQTT**: Um protocolo de mensagens leve usado para a comunicação entre os dispositivos IoT e o servidor.
 
 ## Arquitetura do Sistema
